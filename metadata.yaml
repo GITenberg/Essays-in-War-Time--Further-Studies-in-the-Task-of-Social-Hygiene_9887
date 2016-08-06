@@ -1,0 +1,35 @@
+_repo: Essays-in-War-Time--Further-Studies-in-the-Task-of-Social-Hygiene_9887
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcsh 'Sex'
+- !lcc 'HQ'
+- !lcsh 'War'
+- GITenberg
+tableOfContents: Introduction -- Evolution and war -- War and eugenics -- Morality
+  in warfare -- Is war diminishing? -- War and the birth-rate -- War and democracy
+  -- Feminism and masculinism -- The mental differences of men and women -- The white
+  slave crusade -- The conquest of venereal disease -- The nationalisation of health
+  -- Eugenics and genius -- The production of ability -- Marriage and divorce -- The
+  meaning of the birth-rate. --Civilisation and the birth-rate -- Birth control.
+title: 'Essays in War-Time: Further Studies in the Task of Social Hygiene'
+url: http://www.gutenberg.org/ebooks/9887
